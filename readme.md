@@ -73,14 +73,14 @@ pipenv run python app.py
 
 
 🧪 Fluxo do Modelo
-✅ Carregamento e limpeza dos dados
-✅ Remoção de outliers
-✅ Conversão de variáveis categóricas
-✅ Criação de buckets para análise exploratória
-✅ Criação de pipeline com transformação e regressão
-✅ Validação com métricas estatísticas e gráficos
-✅ Testes de normalidade e homocedasticidade
-✅ Salvamento do modelo com joblib
+✅ Carregamento e limpeza dos dados  
+✅ Remoção de outliers  
+✅ Conversão de variáveis categóricas  
+✅ Criação de buckets para análise exploratória  
+✅ Criação de pipeline com transformação e regressão  
+✅ Validação com métricas estatísticas e gráficos  
+✅ Testes de normalidade e homocedasticidade  
+✅ Salvamento do modelo com joblib  
 
 📈 Resultados
 O modelo foi avaliado com:
