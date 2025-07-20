@@ -72,7 +72,7 @@ pipenv run python app.py
 ![alt text](image.png)
 
 
-🧪 Fluxo do Modelo
+🧪 Fluxo do Modelo  
 ✅ Carregamento e limpeza dos dados  
 ✅ Remoção de outliers  
 ✅ Conversão de variáveis categóricas  
