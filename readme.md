@@ -34,6 +34,8 @@ Prever o **valor de aluguel mensal (R$)** com base nas seguintes variáveis:
 - Scikit-learn
 - SciPy, Statsmodels, Pingouin
 - Pipenv (gerenciador de ambientes)
+- Joblib (Criação do arquivo do modelo)
+- Gradio (Interface gráfica)
 
 ---
 
@@ -42,8 +44,8 @@ Prever o **valor de aluguel mensal (R$)** com base nas seguintes variáveis:
 ### 1. Clone o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-aluguel.git
-cd projeto-aluguel
+git clone https://github.com/leonardops91/regressao_aluguel.git
+cd regressao_aluguel
 ```
 
 2. Instale o Pipenv
@@ -67,7 +69,7 @@ pipenv install scikit-learn scipy pandas matplotlib seaborn ipykernel gradio pin
 ```bash
 pipenv run python app.py
 ```
-
+![alt text](image.png)
 
 
 🧪 Fluxo do Modelo
